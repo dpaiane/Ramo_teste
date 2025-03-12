@@ -2,4 +2,8 @@
 *** Esse arquivo será adicionado na master
 **** Esse arquivo foi para a branch dev
 
+<<<<<<< HEAD
 Bruno Silva Campos
+=======
+Guilherme de Deus
+>>>>>>> ed72c0fdd324f3bf15f7e4fe88a340445f1df173
